@@ -1,5 +1,5 @@
-<h4>LILZABZ: A Compartmentalized Overview</h4>
-<p data-sourcepos="3:1-3:81"><strong>LILZABZ</strong><span> is a pioneering initiative dedicated to the arcane pursuit of memetic engineering, a field that seeks to manipulate the propagation and evolution of ideas and cultural information. Our research delves into the esoteric intersection of memetics, cognitive science, and technology, aiming to develop tools and techniques for the creation and analysis of memes that can influence thought, behavior, and culture.</span></p>
+<h4>A Compartmentalized Overview</h4>
+<p data-sourcepos="3:1-3:81"><strong>Phreaklab</strong><span> is a pioneering initiative dedicated to the arcane pursuit of memetic engineering, a field that seeks to manipulate the propagation and evolution of ideas and cultural information. Our research delves into the esoteric intersection of memetics, cognitive science, and technology, aiming to develop tools and techniques for the creation and analysis of memes that can influence thought, behavior, and culture.</span></p>
 <p data-sourcepos="3:1-3:81">&nbsp;</p>
 <p data-sourcepos="5:1-5:20"><strong>Key Areas of Focus:</strong></p>
 <ul data-sourcepos="7:1-7:171">
